@@ -1,0 +1,69 @@
+auction creation done,
+item added done,
+item updated done, 
+number of user are also provided by seller which is also done,
+
+
+Now need to create user class which will extend Thread
+then need to create number of user provided by seller 
+then take all the information of user 
+then call user.start() method make bidding 
+update currentBid after timer goes down we will get winner😎
+
+
+
+User class :{
+    whats more it can have ?
+}
+
+want to make a method in which we but then how can i call the star
+
+Now what basic code is running 
+and working fine 
+--Just now some variables need to take its input from the table 
+--Have to handle isActive variable 
+--I think i need to make seller table 
+--need to Make a file for all register user then (For io programming)
+--Need to show Winner in bold and Use some Colors in the console 
+--Then close the auction and make isActive to false after that , that auction can`t be restarted again
+--Need to use some data structure to show all ongoing auction , by admin 
+--Need to apply timer according to seller
+
+Admin role
+1. create auction (isActive initially true)
+2.close auction (isActive to false) can`t be restarted again 
+3.Can see all ongoing , stoped and all auctions 
+
+Seller
+1.add Item to the auction 
+2.update item /Also gonna upadte its all property like price name etc 
+
+User
+  1. Can see How many auction are ongoing(See all auction)
+  2.Apply to auction 
+
+
+
+If needed i will make changes today as its already 1AM 😭
+
+--------------------------------------------------------------------------------------------------------------------------------
+Whats next 
+--Need to handle the user Bit more 
+--Fetch all data use data structure
+
+Display Methods
+--All auction can be displayed by Admin ongoing , and more
+--Seller can also see All the Auctions 
+--Still need to handle the isActive variable
+--Id should be unique , foregin key ..
+--User also can see ALl the auction 
+
+Hence For all above three i can make a Special data Structure
+
+IO programming for Current Bidds For Each auction Id bidd starts then new File for each auction with winner on the end 
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+soo thinking about whhat should ddoo with the users
